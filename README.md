@@ -1,1 +1,1 @@
-# aws-fargete-php
+# aws-fargate-php
